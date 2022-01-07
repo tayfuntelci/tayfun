@@ -2,7 +2,7 @@
 <h3 align="center">IOS software developer in the future</h3>
 
 <h3 align="left">School</h3>
-<a href="https://www.metu.edu.tr/tr" target="blank"><img align="center" src="https://i2.cnnturk.com/i/cnnturk/75/1200x0/570748a9e50aa93bc8834d66.jpg" alt="tayfuntss" height="300" width="400" /></a>
+<a href="https://www.metu.edu.tr/tr" target="blank"><img align="center" src="https://i2.cnnturk.com/i/cnnturk/75/1200x0/570748a9e50aa93bc8834d66.jpg" alt="tayfuntss" height="250" width="350" /></a>
 
 <h3 align="left">Connect with me</h3>
 
